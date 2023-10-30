@@ -1,0 +1,12 @@
+Usar Tailwind y MVD
+Respetar las carpetas
+
+Nombre de base de datos: Practica 10
+Crear una tabla de empleados con campos:
+Nombre string 
+Email string campo llave primary
+Address string
+Phone string
+
+Paginas
+1 Mostrar datos de empleado (Que se pueda eliminar un empleado)
